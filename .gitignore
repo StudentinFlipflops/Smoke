@@ -1,0 +1,9 @@
+*.log
+*.txt
+/trash
+/.vscode
+/cpp/CMakeFiles
+/cpp/.vscode
+*.cmake
+/cpp/main
+/cpp/Smoke 
